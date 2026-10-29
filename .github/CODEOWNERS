@@ -1,0 +1,6 @@
+# Every change needs maintainer review. Enforced by the "Require review from
+# Code Owners" rule on main. The team must be visible and have write access.
+*                     @grcmana/maintainers
+/CLAUDE.md            @grcmana/maintainers
+/.claude/             @grcmana/maintainers
+/.github/             @grcmana/maintainers
