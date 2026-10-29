@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Read(./**)",
+      "Edit(./grc/**)",
+      "Write(./grc/**)",
+      "Bash(ls:*)",
+      "Bash(date:*)",
+      "WebSearch"
+    ],
+    "ask": [
+      "WebFetch",
+      "Edit(./.claude/**)",
+      "Edit(./CLAUDE.md)",
+      "Bash(git push:*)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(./**/*.pem)",
+      "Read(./**/*.key)",
+      "Bash(rm -rf:*)",
+      "Bash(curl:*)",
+      "Bash(wget:*)"
+    ]
+  }
+}
