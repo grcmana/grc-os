@@ -1,0 +1,14 @@
+name: GRC OS problem or idea
+description: Setup, operating instructions, guardrails, permissions, workspace or the worked example
+labels: [grc-os]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, or what you'd like
+      description: Remove any real company, customer or personal data before posting.
+    validations: { required: true }
+  - type: input
+    id: agent
+    attributes:
+      label: Claude Code version and model

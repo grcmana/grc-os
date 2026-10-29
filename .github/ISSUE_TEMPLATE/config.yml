@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Problem with a skill, or a framework correction
+    url: https://github.com/grcmana/grcskills/issues/new/choose
+    about: Skills and framework knowledge live in grcmana/grcskills. Report them there.
+  - name: Security issue
+    url: https://github.com/grcmana/grc-os/security/advisories/new
+    about: Report privately. Don't open a public issue for security problems.
