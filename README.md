@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/banner.png" alt="GRC OS: an AI operating system for GRC practitioners, built on Claude Code. Covers ISO 27001, SOC 2, GDPR, ISO 42001 and Cyber Essentials." width="100%">
+</p>
+
 # GRC OS
 
 **An open-source AI operating system for GRC practitioners, built on Claude Code.**
