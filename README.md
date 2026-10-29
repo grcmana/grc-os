@@ -113,5 +113,5 @@ Provided "as is" under the MIT licence. GRC OS is **not** legal, regulatory or a
 
 ---
 
-Built by **Harry West** ([GRCMANA](https://grcmana.com)): ~20 years in cyber, former Global CISO, ISO 27001 / 42001 / 9001 and Cyber Essentials certified.
+Built by **Harry West** ([GRCMANA](https://grcmana.com)): ~20 years in cybersecurity, former Global CISO, GRCP certified, and Certified Lead Implementer for ISO 27001, ISO 27701 and ISO 42001.
 ⭐ Star the repo if it saves you time. Browse more skills at **[grcskills.io](https://grcskills.io)**.
